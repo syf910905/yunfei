@@ -1,4 +1,4 @@
-package com.demo.yunfei.db;
+package com.demo.yunfei.config.db;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;

@@ -1,7 +1,7 @@
 # 多数据源配置
 mysql:
   server: 127.0.0.1:3306
-  username: 123456
+  username: root
   password: 123456
 master:
   datasource:
@@ -26,3 +26,5 @@ spring:
     maxPoolPreparedStatementPerConnectionSize: 20
     filters: stat,wall
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+swagger:
+  enable: false
