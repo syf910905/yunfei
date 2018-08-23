@@ -16,9 +16,30 @@ public class TimerScheduled {
     private RabbitmqSender rabbitmqSender;
     private static int i=0;
 
-    @Scheduled(cron = "0/1 * * * * ? ")
+    /**
+     * 每秒都有人说我去
+     */
+    //@Scheduled(cron = "0/1 * * * * ? ")
     public void sayWoQu(){
         i++;
         rabbitmqSender.sayWoQu(i+"");
+    }
+
+    /**
+     * 时刻都有人在工作
+     */
+    //@Scheduled(cron = "0/1 * * * * ? ")
+    public void work(){
+        i++;
+        rabbitmqSender.Work(i+"");
+    }
+
+    /**
+     * 时刻都有人在发布订阅
+     */
+    @Scheduled(cron = "0/1 * * * * ? ")
+    public void fanout(){
+        i++;
+        rabbitmqSender.fanout(i+"");
     }
 }

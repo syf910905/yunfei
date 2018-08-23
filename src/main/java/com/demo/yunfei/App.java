@@ -25,7 +25,7 @@ import java.util.List;
  */
 @SpringBootApplication
 @EnableAutoConfiguration
-//@EnableScheduling
+@EnableScheduling
 @ComponentScan(basePackages = "com.demo.yunfei")
 public class App implements WebMvcConfigurer {
 

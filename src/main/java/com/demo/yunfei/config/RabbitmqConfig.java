@@ -12,8 +12,21 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class RabbitmqConfig {
 
+    /**
+     * Hello word
+     * @return
+     */
     @Bean
     public Queue queue(){
         return new Queue("woqu");
+    }
+
+    /**
+     * 工作模式
+     * @return
+     */
+    @Bean
+    public Queue work(){
+        return new Queue("work");
     }
 }
