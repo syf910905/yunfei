@@ -23,3 +23,11 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/.gitignore
+src/main/java/com/demo/yunfei/common/
+src/main/java/com/demo/yunfei/dao/
+src/main/java/com/demo/yunfei/service/
+src/main/java/com/demo/yunfei/utils/
+src/main/java/com/demo/yunfei/web/
+src/main/resources/templates/
+src/test/

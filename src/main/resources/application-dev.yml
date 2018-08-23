@@ -26,5 +26,20 @@ spring:
     maxPoolPreparedStatementPerConnectionSize: 20
     filters: stat,wall
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+  rabbitmq:
+    host: 172.30.3.154
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /
 swagger:
   enable: true
+middleware:
+  redis:
+    host: 172.30.3.154
+    port: 6379
+    password: trip123
+    timeout: 60
+    max-total: 1000
+    max-Idle: 1000
+    max-wait-millis: 600000
