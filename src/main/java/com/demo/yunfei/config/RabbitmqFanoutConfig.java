@@ -1,4 +1,4 @@
-package com.demo.yunfei.rabbitmq;
+package com.demo.yunfei.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;
