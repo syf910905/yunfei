@@ -37,7 +37,7 @@ public class TimerScheduled {
     /**
      * 时刻都有人在发布订阅
      */
-    @Scheduled(cron = "0/1 * * * * ? ")
+    //@Scheduled(cron = "0/1 * * * * ? ")
     public void fanout(){
         i++;
         rabbitmqSender.fanout(i+"");
