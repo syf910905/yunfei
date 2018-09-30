@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka_client" />
+        <module name="eureka_server" />
         <module name="yunfei" />
+        <module name="yunfei (1)" />
       </profile>
     </annotationProcessing>
   </component>
