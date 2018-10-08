@@ -8,9 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_client" />
         <module name="eureka_server" />
+        <module name="service-ribbon" />
+        <module name="util" />
         <module name="yunfei" />
         <module name="yunfei (1)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yunfei" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
