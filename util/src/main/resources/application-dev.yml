@@ -32,14 +32,13 @@ spring:
     username: admin
     password: admin
     virtual-host: /
-swagger:
-  enable: true
-middleware:
   redis:
-    host: 172.30.3.154
-    port: 6379
-    password: trip123
-    timeout: 60
+    password: jollytest
     max-total: 1000
     max-Idle: 1000
     max-wait-millis: 600000
+    cluster:
+      nodes: 172.30.3.119:7000,172.30.3.119:7001,172.30.3.119:7002
+      max-redirects: 3
+swagger:
+  enable: true

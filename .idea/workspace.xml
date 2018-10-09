@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="031f34f1-a4dd-4e1c-8b32-9cecadd468c2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/ComparatorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/StreamUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/main/resources/application-dev.yml" afterDir="false" />
+    </list>
     <list id="250f0637-7f63-4f5b-a35c-151931196100" name="不提交" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/yunfei/db/MasterDataSourceConfig.class" beforeDir="false" />
-    </list>
-    <list default="true" id="031f34f1-a4dd-4e1c-8b32-9cecadd468c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler/ServiceHiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/controler/HelloControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/EurekaClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/application-dev.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka_server/target/" />
@@ -54,154 +50,89 @@
         <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqSender.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="682">
-              <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+              <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationContextUtis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/common/ApplicationContextUtis.java">
+      <file leaf-file-name="RabbitmqReceive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqReceive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="21" column="75" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="75" />
+            <state relative-caret-position="528">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparatorUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/ComparatorUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1049#1050#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/application-dev.yml">
+      <file leaf-file-name="StreamUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/StreamUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="525">
+              <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EurekaClientApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/EurekaClientApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_client/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/resources/application-dev.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceRibbonApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/ServiceRibbonApplication.java">
+      <file leaf-file-name="application-pro.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-pro.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisProperties.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="20" />
               <folding>
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#1757#1758#0" expanded="true" />
+                <element signature="e#1795#1796#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/test.java">
+      <file leaf-file-name="RabbitmqConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="374">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloControler.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/controler/HelloControler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceHiController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler/ServiceHiController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/service/HelloService.java">
+      <file leaf-file-name="MultipartConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/MultipartConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -209,8 +140,65 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/App.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="919">
+              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitmqFanoutConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqFanoutConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/Hander/SystemHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitmqThemesAndRoutingConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqThemesAndRoutingConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestTemplatConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RestTemplatConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/Swagger2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -219,37 +207,29 @@
         </entry>
       </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_server/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/util/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MasterDataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/db/MasterDataSourceConfig.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+            <state relative-caret-position="308">
+              <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_server/src/main/resources/application-dev.yml">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka_server/src/main/java/com/eureka/demo/EurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="374">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -269,6 +249,9 @@
     <findStrings>
       <find>redis</find>
       <find>rest</find>
+      <find>cluster</find>
+      <find>nodes</find>
+      <find>redirects</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -282,13 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/config/MultipartConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-pro.yml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-test.yml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/web/TestRabbitmqController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testRabbit.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/config/RabbitmqConfig.java" />
@@ -317,7 +293,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/TimerTask/TimerScheduled.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/common/ApplicationContext.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/yunfei/common/ApplicationContextUtis.java" />
-        <option value="$PROJECT_DIR$/util/pom.xml" />
         <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/App.java" />
         <option value="$PROJECT_DIR$/eureka_server/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/eureka_client/pom.xml" />
@@ -333,6 +308,14 @@
         <option value="$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler/ServiceHiControler.java" />
         <option value="$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler/ServiceHiController.java" />
         <option value="$PROJECT_DIR$/eureka_client/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/utils/ComparatorUtil.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/Human.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/ComparatorUtil.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/User.java" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/StreamUtil.java" />
+        <option value="$PROJECT_DIR$/util/pom.xml" />
+        <option value="$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/util/src/main/resources/application-dev.yml" />
       </list>
     </option>
   </component>
@@ -359,11 +342,6 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="service-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="yunfei" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
@@ -386,8 +364,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,85 +376,25 @@
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="controler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -484,86 +402,57 @@
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="controler" type="462c0819:PsiDirectoryNode" />
+              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
+              <item name="Hander" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="yunfei" type="462c0819:PsiDirectoryNode" />
+              <item name="TimerTask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yunfei" type="b2602c69:ProjectViewProjectNode" />
               <item name="yunfei" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -621,7 +510,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceRibbonApplication">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.yunfei.App" />
+      <module name="util" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.yunfei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -729,13 +629,15 @@
     <list>
       <item itemvalue="Spring Boot.app" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
       <item itemvalue="JUnit.testRabbit.sayWoQu" />
       <item itemvalue="JUnit.testRabbit.testfactory" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
-      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Spring Boot.EurekaClientApplication" />
         <item itemvalue="JUnit.testRabbit.testfactory" />
         <item itemvalue="JUnit.testRabbit.sayWoQu" />
@@ -767,6 +669,8 @@
       <workItem from="1538194336200" duration="595000" />
       <workItem from="1538293857316" duration="6871000" />
       <workItem from="1538963538188" duration="3135000" />
+      <workItem from="1538968411074" duration="1098000" />
+      <workItem from="1539051115841" duration="7146000" />
     </task>
     <task id="LOCAL-00001" summary="第三方士大夫">
       <created>1534324227920</created>
@@ -853,7 +757,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66645000" />
+    <option name="totallyTimeSpent" value="74889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -881,9 +785,10 @@
       <window_info anchor="right" id="Mybatis datasource" order="3" sideWeight="0.50180507" side_tool="true" weight="0.32977018" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19722074" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1998931" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32977018" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -891,7 +796,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32977018" />
     </layout>
     <layout-to-restore>
@@ -977,90 +881,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqFanoutConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="73" column="53" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar!/springfox/documentation/spring/web/plugins/ApiSelectorBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="80" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/core/DirectExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="21" selection-start-line="21" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/core/AbstractExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/core/TopicExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/service/serviceImpl/ForgetLove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/service/serviceImpl/ForeverLove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="72" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/service/Love.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/service/YunfeiService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/service/serviceImpl/MissLove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1090,59 +910,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/yunfei/db/MasterDataSourceConfig.java" />
-    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/Hander/SystemHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/src/main/resources/generator/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-pro.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqThemesAndRoutingConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/web/TestRabbitmqController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqReceive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1181,30 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/db/MasterDataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka_server/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/eureka_client/src/test/java/com/eurekaclient/demo/eureka_client/EurekaClientApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1217,34 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_client/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-ribbon/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1272,16 +991,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler.java" />
     <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/com/eurekaclient/demo/eureka_client/controler/ServiceHiController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="198">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1312,14 +1025,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/ServiceRibbonApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="374">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1332,13 +1039,237 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/ribbon/demo/serviceribbon/controler/HelloControler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="484">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/ComparatorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/demo/StreamUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-pro.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/rabbitmq/RabbitmqReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/web/TestRabbitmqController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/Hander/SystemHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/db/MasterDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/MultipartConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqFanoutConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqThemesAndRoutingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RestTemplatConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/core/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding>
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RabbitmqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.6.RELEASE/spring-data-redis-2.0.6.RELEASE.jar!/org/springframework/data/redis/connection/RedisClusterConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="919">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#1757#1758#0" expanded="true" />
+            <element signature="e#1795#1796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/java/com/demo/yunfei/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
