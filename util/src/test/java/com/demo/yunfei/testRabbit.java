@@ -10,8 +10,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * @Author: yunfei
@@ -40,26 +43,31 @@ public class testRabbit {
            yunfeiService= entry.getValue();
            yunfeiService.love( yunfeiService.getCode());
        }
+      final   List<YunfeiService> list = map.values().stream().collect(Collectors.toList());
 
-       /* new Thread(new Runnable() {
+
+        new Thread(new Runnable() {
             @Override
             public void run() {
-                yunfeiService.love("1");
+                yunfeiService = list.stream().filter(yunfei -> yunfei.getCode().equals("SYSTEM")).findFirst().orElse(null);
+                yunfeiService.love(yunfeiService.getCode());
             }
         }).start();
         new Thread(new Runnable() {
             @Override
             public void run() {
-                yunfeiService.love("2");
+                yunfeiService = list.stream().filter(yunfei -> yunfei.getCode().equals("FORGET")).findFirst().orElse(null);
+                yunfeiService.love(yunfeiService.getCode());
             }
         }).start();
         new Thread(new Runnable() {
             @Override
             public void run() {
-                yunfeiService.love("3");
+                yunfeiService = list.stream().filter(yunfei -> yunfei.getCode().equals("FOREVER")).findFirst().orElse(null);
+                yunfeiService.love(yunfeiService.getCode());
             }
         }).start();
-        Thread.sleep(10000L);*/
+        Thread.sleep(10000L);
     }
 
 }
